@@ -20,4 +20,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### 🎮 Play Games with Me
 
-![Snake Animation](https://raw.githubusercontent.com/farreldrifqi/farreldrifqi/output/github-contribution-grid-snake-dark.svg)
+![Pacman Animation](https://raw.githubusercontent.com/farreldrifqi/farreldrifqi/output/pacman-contribution-graph-dark.svg)
