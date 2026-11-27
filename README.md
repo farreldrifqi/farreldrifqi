@@ -10,14 +10,6 @@ Saat ini saya memiliki ketertarikan di bidang Teknologi, khususnya ingin menjadi
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/farreldanendrarifqi/)<br>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/farreldrifqi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farreldrifqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farreldrifqi&layout=compact&theme=algolia"/>
-</a>
-</p>
-
 ### 🎮 Play Games with Me
 
 ![Pacman Animation](https://raw.githubusercontent.com/farreldrifqi/farreldrifqi/output/pacman-contribution-graph-dark.svg)
